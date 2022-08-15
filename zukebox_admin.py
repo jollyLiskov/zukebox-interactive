@@ -77,7 +77,7 @@ class ZukeShell(Cmd):
 			except: print("Eingabefehler")
 			else:
 				if selection<x:
-					confirm = input("Wirklich löschen (y/n):")
+					confirm = input("Wirklich loeschen (y/n):")
 					if confirm=="y" or confirm=="j":
 						Post.rm(selection, title=titlelist[selection])
 				else: print("Kein Song gelöscht.")
@@ -124,5 +124,3 @@ if __name__ == '__main__':
 	prompt = ZukeShell()
 	prompt.prompt = '> '
 	prompt.cmdloop('Starting ZukeShell...')
-	
-
