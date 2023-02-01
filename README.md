@@ -17,7 +17,11 @@ CAVEAT: You can't interact or exit the kiosk mode so set up a ssh server first!
 requires a working zukebox server (can be run on the same machine e. g. with gnu screen)
 
 requires these python packages:
-
+youtube-search-python
+click
+```
+pip install youtube-search-python click 
+```
 
 ### Optional Dependencies
 #### cool-retro-term
