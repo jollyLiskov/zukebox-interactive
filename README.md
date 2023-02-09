@@ -43,6 +43,8 @@ Clone the Repository and edit config.py with a text editor.
 
 Start zukebox (either same or different device).
 
+Change config.py file accordingly.
+
 Run zukebox_interactive.py (kioskmode)
 
 Optionally run zukebox_admin.py on another device.
