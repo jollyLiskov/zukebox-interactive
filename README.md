@@ -1,7 +1,11 @@
 # zukebox_interactive
-**Abandoned! There won't be any development, bug fixes or pulls!**
+**This project is abandoned!** 
 
-zukebox_interactive is a retro kiosk client for zukebox https://github.com/tomicooler/zukebox
+**Take a look at the succesor [diy-aftershow](https://codeberg.org/diy-aftershow/diy-aftershow) on codeberg.org**
+
+
+## Description
+zukebox_interactive is a retro kiosk client for [zukebox](https://github.com/tomicooler/zukebox).
 
 It can be used as a collaborative music playlist, which is called "youtube party" in Germany.
 
